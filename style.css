@@ -81,3 +81,18 @@ img:hover{
     background-color: darkblue
 }
 
+
+#contacts{
+    background-color: greenyellow;
+    
+}
+
+.contacts_1 a {
+    color: aliceblue;
+    text-shadow: none;
+}
+
+.contacts_1 h3 {
+    display: inline;
+    
+}
